@@ -7,8 +7,6 @@ import {WiHumidity} from 'react-icons/wi'
 import { Link, useNavigate } from 'react-router-dom'
 import {GiPressureCooker} from 'react-icons/gi'
 
-import { PrimaryButton } from '@fluentui/react';
-// import { Sunny } from "@fluentui/react-icons";
 
 import AV1 from '../../assets/Image/hanoi.jpg'
 import AV2 from '../../assets/Image/caobang.jpg'
